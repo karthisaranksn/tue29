@@ -1,3 +1,4 @@
 i am working on git clean merge
-this comment is from feature branch
+this comment is from main branch
+git merging conflict will occure here
 comment to check
